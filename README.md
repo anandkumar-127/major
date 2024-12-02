@@ -37,8 +37,10 @@ You can directly use the pre-trained model (`model.p`) provided in this reposito
    cd sign-language-to-speech
    ```
 
-2. Install the required dependencies:
+2. Create a virtual environment and activate, Install the required dependencies:
    ```bash
+   python3 -m venv <env-name>
+   source <env-name>/bin/activate
    pip install -r requirements.txt
    ```
 3. Run the `main.py` script.  
@@ -99,12 +101,6 @@ We believe that collaboration is key to innovation. If you have suggestions for 
 
 ---
 
-## **Contributors**  
-1. **[Tanmay Jivnani](https://github.com/tanmayJivnani)**
-2. **[Shravani Verma](https://github.com/Shravknowscoding)**
-3. **[Aishwarya Shendkar](https://github.com/aishwaryaa2603)**
-
----
 
 ## 📝 License
 
